@@ -1,0 +1,6 @@
+ex 1: E (there is no constructor with zero args to call in the parent class)
+      F (but also i would say this because idont think thats how we define a new instance of an object?? just new Mamma(5) shouldnt it be Mammal m = new Mammal(5); ???)  
+ex 2: A+B+D+E (we can create an instance from the parent class, child class, the interface class and also from object class as it is a superclass to all other classes??)
+ex 3: C (Number in child vs Integer in parent) 
+ex 4: F (in order to access the parent method of the spider child class we need the super. otherwise it still calls the child method which asks for int type and we give float)
+ex 5: A+C (da aici nu inteleg cum putem scrie asa:)) cred ca si F ca cere string si am putea da si null???

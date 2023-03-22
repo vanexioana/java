@@ -1,0 +1,13 @@
+1. B+E (public and abstract)
+2. D (the abstract class needs to be declared public in order for the concrete class to extend it also its abstract method, and if that were fixed then still error because we need implementation of all methods declared before since its the first concrete class)
+3. D (it s a method with a body and the default keyword is missing)
+4. D (return type of type Object not possible???) or C (only the abstract keyword is assumed in the definition of an interface)
+5. E+F 
+6. A+D+E
+7. B (BUT I THOUGHT !!!cannot implement bcuz interface is not marked as public? )
+8. B+C
+9. B (+E???)
+10. C
+11. B
+12(doar ca la tine e 11.jpg). E (bcuz confusion 2 methods defined the same de fapt asta chiar nu stiu)
+13. sigur nu A si B
